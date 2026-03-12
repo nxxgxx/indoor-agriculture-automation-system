@@ -9,6 +9,13 @@ This project involved designing and building an indoor agriculture system focuse
 ## Video Demo
 [Watch the project video demo](https://drive.google.com/file/d/1qu6t8E1BD35FVe2aeEV13rcyjCDJ6ziP/view?usp=sharing)
 
+## Project Photos
+
+![System photo 1](media/IMG_5682.jpeg)
+![System photo 2](media/IMG_6478.jpeg)
+![System photo 3](media/IMG_6636.jpeg)
+![System photo 4](media/IMG_6648.jpeg)
+
 ## System Features
 
 - Automated irrigation / watering
