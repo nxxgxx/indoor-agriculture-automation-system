@@ -6,6 +6,9 @@ This repository documents a hardware-based controlled environment agriculture pr
 
 This project involved designing and building an indoor agriculture system focused on maintaining stable growing conditions through hands-on hardware setup, system organization, and troubleshooting. The goal was to create a more controlled and efficient growing environment using automation for key functions such as watering and lighting.
 
+## Video Demo
+[Watch the project video demo](https://drive.google.com/file/d/1qu6t8E1BD35FVe2aeEV13rcyjCDJ6ziP/view?usp=sharing)
+
 ## System Features
 
 - Automated irrigation / watering
